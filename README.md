@@ -168,4 +168,4 @@ python employee_management.py
 ---
 ## 📌 Project Category
 
-**Backend Development | Database Systems | HR Data Management | Business Logic Automation*
+*Backend Development | Database Systems | HR Data Management | Business Logic Automation*
