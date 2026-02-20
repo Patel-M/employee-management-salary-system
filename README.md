@@ -71,21 +71,10 @@ This project provides a **centralized, reliable, and automated system** to:
 ## 🗄️ Database Structure
 
 ### Employee Table
-- Employee Number  
-- Name  
-- Address  
-- Contact Number  
-- Designation  
+- Employee Number  |  Name  |  Address  |  Contact Number  |  Designation  
 
 ### Salary Table
-- Employee Number  
-- Salary Date  
-- Basic Salary  
-- DA  
-- HRA  
-- MA  
-- PF  
-- Gross Salary  
+- Employee Number  |  Salary Date  |   Basic Salary  |  DA  |  HRA  |  MA  |  PF  |  Gross Salary  
 
 ---
 
@@ -116,11 +105,11 @@ This project provides a **centralized, reliable, and automated system** to:
 - Exit  
 
 ### 2️⃣ Employee Detail Module
-- Insert  
-- Modify  
-- Delete  
-- Search  
-- Display  
+- Insert  Employee Record
+- Modify  Employee Record
+- Delete  Employee Record
+- Search  Employee Record
+- Display  Employee Record
 
 ### 3️⃣ Salary Module
 - Insert salary details  
