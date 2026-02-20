@@ -81,19 +81,19 @@ This project provides a **centralized, reliable, and automated system** to:
 ## 📊 System Preview
 
 ### 🗃️ Tables in Database
-![Tables](assets/tables_in_database.png)
+![Tables](assets/i_database_tables.png)
 
 ### 🧱 Employee Table Structure
-![Employee Table Structure](assets/employee_table_structure.png)
+![Employee Table Structure](assets/ii_employee_table_structure.png)
 
 ### 🧾 Salary Table Structure
-![Salary Table Structure](assets/emp_salary_table_structure.png)
+![Salary Table Structure](assets/iii_emp_salary_table_structure.png)
 
 ### 📄 Employee Data Sample Output
-![Employee Sample Output](assets/employee_sample_output.png)
+![Employee Sample Output](assets/iv_employee_table_sample_output.png)
 
 ### 📄 Salary Data Sample Output
-![Salary Sample Output](assets/emp_salary_sample_output.png)
+![Salary Sample Output](assets/v_emp_salary_table_sample_output.png)
 
 ---
 
