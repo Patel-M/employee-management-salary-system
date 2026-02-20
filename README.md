@@ -1,6 +1,6 @@
 # 💼 Employee Management and Salary Processing System
 
-![Thumbnail](assets/thumbnail.png)
+![Thumbnail](assets/employee_management_salary_system_thumbnail.png)
 
 > **A Python–MySQL based system designed to manage employee records and automate salary calculation and reporting through a structured database-driven interface.**
 
